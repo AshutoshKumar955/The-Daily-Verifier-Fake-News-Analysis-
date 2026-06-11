@@ -18,8 +18,8 @@ The project uses **TF-IDF Vectorization** for feature extraction and **Logistic 
 
 ## Web Interface
 
-![Web Interface](screenshots/Picture1.png)
-![Web Interface](screenshots/Picture2.png)
+![Web Interface](screenshot/Picture1.png)
+![Web Interface](screenshot/Picture2.png)
 
 ---
 
@@ -27,7 +27,7 @@ The project uses **TF-IDF Vectorization** for feature extraction and **Logistic 
 
 **Training/Test Accuracy: 98.49%**
 
-![Training Accuracy](screenshots/Picture5.png)
+![Training Accuracy](screenshot/Picture5.png)
 
 ---
 
@@ -35,19 +35,19 @@ The project uses **TF-IDF Vectorization** for feature extraction and **Logistic 
 
 **External Dataset Accuracy: 93.72%**
 
-![External Accuracy](screenshots/Picture6.png)
+![External Accuracy](screenshot/Picture6.png)
 
 ---
 
 ## Classification Report
 
-![Classification Report](screenshots/Picture3.png)
+![Classification Report](screenshot/Picture3.png)
 
 ---
 
 ## Confusion Matrix
 
-![Confusion Matrix](screenshots/Picture4.png)
+![Confusion Matrix](screenshot/Picture4.png)
 
 ---
 
